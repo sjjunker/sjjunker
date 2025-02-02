@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sjjunker
-- 👀 I’m interested in android and iOS app development and design.
-- 🌱 I’m currently learning swift and iOS app design @ CodeWithChris.
-- 💞️ I’m looking to collaborate on personal projects.
-- 📫 How to reach me: github.
+- 👀 I’m interested in mobile and game development.
+- 🌱 I’m currently working on a bachelor's in software and web development.
+- 💞️ I’m looking to increase the breadth of my programming knowledge.
+- 📫 How to reach me: linkedin.
 
 <!---
 sjjunker/sjjunker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
